@@ -1,2 +1,4 @@
 # Graphic interface 
- First project of graphic interface with Python
+Dois projetos
+- simples interface 
+- cotação de moedas em tempo real
