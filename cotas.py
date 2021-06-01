@@ -38,7 +38,7 @@ class TelaPython:
             [sg.Text('Selecione a cotação desejada:')],
             [sg.Checkbox('Dólar', key='dolar'),sg.Checkbox('Euro', key='euro'),sg.Checkbox('Bitcoin', key='bitcoin')],
             [sg.Button('Receber informação')],
-            [sg.Output(size=(30,20))]
+            [sg.Output(size=(40,20))]
         ]
 
         #janela
