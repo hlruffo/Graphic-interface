@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['cotas.py'],
-             pathex=['C:\\Users\\Hug0\\Documents\\GitHub\\Graphic-interface'],
+             pathex=['C:\\Users\\Hug0\\documents\\github\\graphic-interface'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -31,4 +31,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=True )
+          console=False )
